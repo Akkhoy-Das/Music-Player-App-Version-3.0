@@ -49,23 +49,21 @@ src/
 
 ### Login Screen
 
-
+![Music Player Screenshot](https://raw.githubusercontent.com/Akkhoy-Das/Music-Player-App-Version-3.0/9374b02ec3d5800ab7a7a390e2d7bd7765f1b67b/Screenshot%202026-06-07%20110648.png)
 
 ### Registration Screen
 
-(Add Screenshot Here)
+![Music Player Interface](https://raw.githubusercontent.com/Akkhoy-Das/Music-Player-App-Version-3.0/9374b02ec3d5800ab7a7a390e2d7bd7765f1b67b/Screenshot%202026-06-07%20110705.png)
 
 ### Home Screen
 
-(Add Screenshot Here)
+![Playlist Management](https://raw.githubusercontent.com/Akkhoy-Das/Music-Player-App-Version-3.0/9374b02ec3d5800ab7a7a390e2d7bd7765f1b67b/Screenshot%202026-06-07%20110730.png)
 
 ### Playlist Section
 
-(Add Screenshot Here)
+![Song Playback Screen](https://raw.githubusercontent.com/Akkhoy-Das/Music-Player-App-Version-3.0/9374b02ec3d5800ab7a7a390e2d7bd7765f1b67b/Screenshot%202026-06-07%20110800.png)
 
-### Music Player Screen
 
-(Add Screenshot Here)
 
 ## 🔮 Future Improvements
 
